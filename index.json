@@ -645,24 +645,6 @@
     "name": "HolyC"
   },
   {
-    "name": "HTML+Django"
-  },
-  {
-    "name": "HTML+ECR"
-  },
-  {
-    "name": "HTML+EEX"
-  },
-  {
-    "name": "HTML+ERB"
-  },
-  {
-    "name": "HTML+PHP"
-  },
-  {
-    "name": "HTML+Razor"
-  },
-  {
     "name": "HTTP"
   },
   {
@@ -721,9 +703,6 @@
   },
   {
     "name": "Java Server Pages"
-  },
-  {
-    "name": "JavaScript+ERB"
   },
   {
     "name": "JFlex"
@@ -1003,9 +982,6 @@
   },
   {
     "name": "NetLinx"
-  },
-  {
-    "name": "NetLinx+ERB"
   },
   {
     "name": "NetLogo"
